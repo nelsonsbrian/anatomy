@@ -1,0 +1,31 @@
+.clickable {
+  cursor: pointer;
+  color:#0088cc;
+}
+
+.clickable:hover{
+    text-decoration: underline;
+}
+
+
+.col-md-6 {
+  border: black 1px solid;
+  min-height: 400px
+}
+
+
+img {
+  width: 40%;
+}
+
+.head, .chest, .legs {
+  display: none;
+}
+
+body {
+  text-align: center;
+}
+
+p {
+  font-size: 25px;
+}
