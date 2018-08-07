@@ -24,8 +24,16 @@ img {
 
 body {
   text-align: center;
+  background-color: lightgray;
 }
 
 p {
   font-size: 25px;
+}
+.dark-background{
+  background-color:black;
+  color: white;
+}
+.light-background{
+  background-color: none;
 }

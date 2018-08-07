@@ -10,5 +10,9 @@ $(document).ready(function() {
     $(".legs").toggle();
   });
 
+  $("button#black").click(function(){
+    $("body").toggleClass("dark-background");
+
+  });
 
 });
